@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: FlipTrack
+  m_EditorClassIdentifier: 
+  mEventID: FlipNotes
+  mEventList:
+  - mStartSample: 231259
+    mEndSample: 231259
+  - mStartSample: 502333
+    mEndSample: 502333
+  - mStartSample: 570102
+    mEndSample: 570102
+  - mStartSample: 841177
+    mEndSample: 841177
+  - mStartSample: 976714
+    mEndSample: 976714
+  - mStartSample: 1180020
+    mEndSample: 1180020
+  - mStartSample: 2094898
+    mEndSample: 2094898
+  - mStartSample: 2128782
+    mEndSample: 2128782
+  - mStartSample: 3755231
+    mEndSample: 3755231
+  - mStartSample: 3789115
+    mEndSample: 3789115
+  - mStartSample: 3924652
+    mEndSample: 3924652
+  - mStartSample: 4127958
+    mEndSample: 4127958
+  - mStartSample: 5991597
+    mEndSample: 5991597
+  - mStartSample: 7346971
+    mEndSample: 7346971
+  - mStartSample: 7380856
+    mEndSample: 7380856
+  - mStartSample: 7414740
+    mEndSample: 7414740
+  - mStartSample: 7448624
+    mEndSample: 7448624
+  - mStartSample: 7889121
+    mEndSample: 7889121
+  - mStartSample: 8058543
+    mEndSample: 8058543
+  - mStartSample: 8126311
+    mEndSample: 8126311
+  - mStartSample: 8227964
+    mEndSample: 8227964
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: 1,1
+  - mTextVal: 0,2
+  - mTextVal: 1,1
+  - mTextVal: 1,2
+  - mTextVal: 0,1
+  - mTextVal: 1,2
+  - mTextVal: 0,1
+  - mTextVal: 0,2
+  - mTextVal: 1,1
+  - mTextVal: 1,2
+  - mTextVal: 1,2
+  - mTextVal: 1,2
+  - mTextVal: 1,2
+  - mTextVal: 0,1
+  - mTextVal: 0,1
+  - mTextVal: 1,2
+  - mTextVal: 1,2
+  - mTextVal: 1,1
+  - mTextVal: 1,1
+  - mTextVal: 1,2
+  - mTextVal: 1,1
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000

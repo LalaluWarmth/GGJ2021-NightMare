@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\wengc\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\wengc\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_source.1527353988.00" t="ExcludeRecursive" />
+    <e p="E:\u3d\GGJ2021\source" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Koreographer" t="Include">
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Koreographer" t="Include">
+            <e p="SonicBloom.Koreo.xml" t="Include" />
+            <e p="SonicBloom.MIDI.xml" t="Include" />
+            <e p="Unity Editor" t="Include">
+              <e p="SonicBloom.Koreo.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ComboRecordAndStatusChange.cs" t="Include" />
+          <e p="ExtraComponents" t="Include">
+            <e p="TextTok.cs" t="Include" />
+            <e p="VerticalText.cs" t="Include" />
+          </e>
+          <e p="FlipNote.cs" t="Include" />
+          <e p="HoldNote.cs" t="Include" />
+          <e p="HoldNoteRenderer.cs" t="Include" />
+          <e p="InputController.cs" t="Include" />
+          <e p="Note.cs" t="Include" />
+          <e p="NotesController.cs" t="Include" />
+          <e p="NoteTestSound.cs" t="Include" />
+          <e p="SceneMoveController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="source.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
